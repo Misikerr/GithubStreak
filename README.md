@@ -1,3 +1,3 @@
 # GithubStreak
 
-123456
+12345
